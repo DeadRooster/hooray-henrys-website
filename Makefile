@@ -2,6 +2,9 @@ open:
 	open Package.swift
 
 build:
+	swift build
+
+run:
 	swift run
 
 serve:
