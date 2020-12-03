@@ -14,9 +14,9 @@ struct HoorayHenrysWebsite: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
-    var name = "HoorayHenrysWebsite"
-    var description = "A description of HoorayHenrysWebsite"
+    var url = URL(string: "https://hoorayhenrys.deadrooster.org")!
+    var name = "Hooray Henrys"
+    var description = "The official website of the France-based Hooray Henrys band."
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
